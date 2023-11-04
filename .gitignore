@@ -12,3 +12,5 @@ files/*_SHA256SUMS
 tests/test_results.json
 *.pyc
 molecule/*/cache/
+.vscode
+meta/.galaxy_install_info
